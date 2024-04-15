@@ -1,5 +1,8 @@
 ## Project Title: Bill Splitter
 
+# hosted link
+https://ajaykale21.github.io/billsplitter/
+
 ## Description:
 The Bill Splitter project is a simple web application designed to help users split bills and calculate tips among a group of people. Users can input the total bill amount, select a tip percentage, specify the number of people sharing the bill, and generate a detailed breakdown of the bill for each individual.
 
